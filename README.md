@@ -1,2 +1,2 @@
 # Fullstack Car Rental
-# Technology : Spring boot and Angular 18
+# Technology : Spring boot 3 and Angular 18
